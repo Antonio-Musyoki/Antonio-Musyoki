@@ -1,5 +1,10 @@
 ### Hi there 👋. My Name is Anthony Musyoki.
 
+## About Me
+
+
+## My Skills
+
 <!--
 **Antonio-Musyoki/Antonio-Musyoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
