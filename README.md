@@ -1,4 +1,4 @@
-### Hi there 👋. My Name is Anthony Musyoki.
+# Hi there 👋. My Name is Anthony Musyoki.
 
 ## About Me
 
